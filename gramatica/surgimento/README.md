@@ -193,7 +193,7 @@ sete artes liberais (_trivium + quadrivium_)
 #### Trivium
 
 - Gramática
-- Dialética
+- Dialética (Lógica)
 - Retórica
 
 #### Quadrivium
