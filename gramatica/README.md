@@ -1,7 +1,7 @@
 # gramatica
 
-1. [O surgimento da gramática](/surgimento)
+1. [O surgimento da gramática](/gramatica/surgimento/)
 
-2. [Do latim ao português](/latim-portugues)
+2. [Do latim ao português](/gramatica/latim-portugues/)
 
-3. [Da gramática à linguística](/gramatica-linguistica)
+3. [Da gramática à linguística](/gramatica/gramatica-linguistica/)
