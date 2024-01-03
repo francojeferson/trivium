@@ -249,6 +249,7 @@ autor da primeira gramática do tupi (a língua mais usada na costa do Brasil), 
 ## Língua geral
 
 - **Língua geral paulista**: tupi falado em São Vicente e no Alto Rio Tietê + português dos colonos e missionários + línguas de indígenas de outras etnias, que eram deslocados para a região + fala dos mestiços (geralmente filhos de mãe indígena e de pai português)
+
 - **Língua geral amazônica**: região dos atuais estados do Pará e do Maranhão, onde havia grande número de línguas indígenas (nheengatu = "língua boa")
 
 #### Dificuldade dos missionários ante a quantidade e a diversidade de línguas indígenas

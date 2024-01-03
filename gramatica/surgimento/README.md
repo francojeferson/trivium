@@ -13,6 +13,7 @@ Grammatiké (grego) > gramática (port.)
 ===
 
 - **Aristóteles** [_384a.C.-322a.C._] (62 anos)
+
 - **Platão** [_428a.C.-348a.C._] (80 anos)
 
 ![aristoteles e platao](../../assets/aristoteles-platao.png)
